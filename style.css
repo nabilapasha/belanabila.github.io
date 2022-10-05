@@ -24,6 +24,14 @@ body{
 .footer{
     background-image: url(3.JPG) ;
 }
+
+.puisi{
+    font-family: fantasy;
+    color: black;
+    text-align:left;
+    font-size: 155%;
+}
+
 .cta{
     display: flex;
     justify-content: center;
@@ -35,3 +43,4 @@ body{
     font-family: fantasy;
     color: darkcyan;
 }
+
